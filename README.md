@@ -1,1 +1,1 @@
-# This code is a self made copy of a internet game called worlde
+# This code is a self made copy of an internet game called worlde
