@@ -1,7 +1,7 @@
 import random as r
 def Convert(string):
-    list1= []
-    list1[:0]=string
+    list_= []
+    list_[:0]=string
     return list1
 word_list=[]
 src=open("word_list.txt")
